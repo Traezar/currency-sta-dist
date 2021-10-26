@@ -1,0 +1,1 @@
+!function () { var e = "https://cdn.jsdelivr.net/gh/apphq/currency-dist@master/currencyhq.js?2" + (new Date).getTime(), t = document.createElement("script"); t.type = "text/javascript", t.src = e, document.querySelector("body").appendChild(t) }();
